@@ -2,7 +2,7 @@
 
 ## Introduction to AWS Machine Learning Final Project
 
-###Note: This is a guided project done in the completion of Udacity's Introduction to Machine Learning course. 
+### Note: This is a guided project done in the completion of Udacity's Introduction to Machine Learning course. 
 
 ## Overview
 In this project, I have applied students will apply the knowledge and methods they learned in the Introduction to Machine Learning course to compete in a Kaggle competition using the AutoGluon library.
